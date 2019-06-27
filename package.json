@@ -1,0 +1,19 @@
+{
+  "name": "getcanvas",
+  "version": "1.0.0",
+  "description": "Command line tool to query Canvas API",
+  "main": "getcanvas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tps",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "parse-link-header": "^1.0.1",
+    "tiny-json-http": "^7.0.0"
+  },
+  "bin": {
+    "getcanvas": "./getcanvas.js"
+  }
+}
