@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^5.0.1",
-    "parse-link-header": "^1.0.1",
+    "parse-link-header": "^2.0.0",
     "tiny-json-http": "^7.0.0"
   },
   "bin": {
